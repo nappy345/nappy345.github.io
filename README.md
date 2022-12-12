@@ -1,4 +1,5 @@
 Data Science Final Project
+
 By: Ryan Napolitano, Will Moran, Seif Ingram
 Business Understanding
 In the modern era of the NBA, the trend of high-scoring offense has become a staple of the game. Today, teams use a variety of strategies to score points, from fast-paced drives to the basket to long-range three-pointers. Teams like the Golden State Warriors and Houston Rockets have been able to dominate the league by utilizing their offensive talents. The Warriors, for example, broke the record for the most three-pointers in a single season, while the Rockets have used their potent long-range shooting to become one of the most prolific scoring teams in the league. Point scoring and offense are vital to success in the NBA, and the teams that utilize these skills to their advantage are generally the ones that win titles. By focusing on offensive basketball, teams can generate points and build a strong foundation of success. Furthermore, as the NBA continues to evolve, so too must the strategies and skills of its teams, making point scoring and offense essential components of winning basketball.
