@@ -4,9 +4,9 @@ By: Ryan Napolitano, Will Moran, Seif Ingram
 
 nappy345.github.io
 
-https://youtu.be/-AcNfl_2n64
+https://youtu.be/-AcNfl_2n64 (Presentation)
 
-https://youtu.be/72cGC4ow87I
+https://youtu.be/72cGC4ow87I (Tutorial)
 
 https://colab.research.google.com/drive/1Qk7dQWIj7MCnzesTOKSf-MES2WfRU3W2?usp=sharing    (Link to run code - Public to all Lafayette College)
 
