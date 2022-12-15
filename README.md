@@ -39,4 +39,7 @@ DRtg/A -- Adjusted Defensive Rating -- An estimate of points allowed per 100 pos
 
 NRtg/A -- Adjusted Net Rating; an estimate of point differential per 100 possessions adjusted for strength of opponent.
 
+Deployment
+When it comes to basketball, NBA teams understand that a dominant offense is a key to team success. However, it is also clear that defense is important to a winning team as well. The regressive analysis performed in this project revealed that offensive and defensive ratings have a strong correlation with team wins and Win/Loss percentage. This study further highlights that making the most of possession opportunities is key to excelling as a team. It seems obvious, but having better scoring efficiency contributes to having a much better defensive rating.
+
 https://www.basketball-reference.com/
